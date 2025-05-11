@@ -1,3 +1,5 @@
+[English README](README.en.md) | [中文說明](README.md)
+
 # 股票資訊爬蟲
 
 ## 專案描述

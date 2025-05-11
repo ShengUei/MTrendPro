@@ -1,3 +1,5 @@
+[English README](README.en.md) | [中文說明](README.md)
+
 # Stock Information Crawler
 
 ## Project Description

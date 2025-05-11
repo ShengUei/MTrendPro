@@ -29,6 +29,7 @@ venv/
 env/
 ENV/
 .env
+.venv/
 
 # IDE
 .idea/
@@ -44,4 +45,4 @@ Thumbs.db
 # Exclude real config file, but include example config
 config.ini
 # Keep the example config
-!config.example.ini 
+!config.example.ini
